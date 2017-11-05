@@ -1,3 +1,3 @@
 # GraphMiningFinalProject
 
-For Finding out the influential nodes in documents using graph inluence maximization algorithms.
+For Finding out the influential keywords in documents using graph inluence maximization algorithms.
